@@ -30,7 +30,11 @@ Gluing
 
 ## BUILD INSTRUCTIONS
 
-1. Glue the party hat onto the Honda Civic.
+1. Glue the party hat onto the Honda Civic as shown in fig. 1.
+
+Fig 1:
+
+![Build Instructions](hondahat.png)
 
 ## USER INSTRUCTIONS
 
