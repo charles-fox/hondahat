@@ -8,6 +8,8 @@ Capable of driving up to 120mph on road.
 
 Capable of operating outdoors including in heavy rain and snow.
 
+Build cost 102-20010 USD
+
 
 ## BILL OF MATERIALS
 
@@ -23,9 +25,9 @@ Capable of operating outdoors including in heavy rain and snow.
 None
 
 
-## SKILLS REQUIRED
+## SKILLS AND LABOUR REQUIRED
 
-Gluing
+Gluing, 5 seconds
 
 
 ## BUILD INSTRUCTIONS
