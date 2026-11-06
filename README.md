@@ -2,7 +2,7 @@
 
 ## SPECIFICATIONS
 
-Complete, tested, fully open source hardware, road-legal car.
+A complete, tested, fully open source hardware, road-legal car.
 
 Capable of driving up to 120mph on road.
 
